@@ -32,11 +32,16 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% if page.profile.address %}
+          <div class="more-info">{{ page.profile.address }}</div>
         {% endif %}
+        <!-- Social -->
+        <div class="contact-icons">
+          {% include social.liquid %}
+        </div>
       </div>
     {% endif %}
+    <!--Researcher | parallel architectures | AI accelerators | dependability | fault tolerance | DfT-->
 
     <div class="clearfix">{{ content }}</div>
 
