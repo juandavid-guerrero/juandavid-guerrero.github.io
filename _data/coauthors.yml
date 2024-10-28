@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Guerrero-Balaguera":
+  - firstname: ["Juan-David", "J. D.", "J.", "Juan"]
+    url: https://scholar.google.com/citations?user=7n9InNIAAAAJ
+
+"Guerrero":
+  - firstname: ["J. D.", "J.", "Juan"]
+    url: https://scholar.google.com/citations?user=7n9InNIAAAAJ
