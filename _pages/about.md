@@ -34,8 +34,8 @@ My research work focuses on the design of dependable hardware for safety-critica
 * Advanced digital design for FPGAs
 * Computational arithmetic for AI
 * Accelerators for vision applications
-* Funtional in-field testing of hardware components (e.g., CPUs, and GPUs)
+* Functional in-field testing of hardware components (e.g., CPUs, and GPUs)
 * Dependability and fault tolerance for AI accelerators 
-* AI reliability assesment (i.e., error modeling of hardware faults).
+* AI reliability assessment (i.e., error modeling of hardware faults).
 
 
