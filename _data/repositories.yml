@@ -1,14 +1,11 @@
-github_users:
-  - torvalds
-  - alshedivat
+#github_users:
+#  - divadnauj-GB
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - divadnauj-GB/nvbitPERfi
+  - divadnauj-GB/SC_Fault_injections
+  - Jerc007/Open-GPGPU-FlexGrip-
+  - edwar-vhd/SFU-Piecewise-Polynomial-Approximation
+  #- divadnauj-GB/stereo_matching_core
