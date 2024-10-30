@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Here you will find the main repositories I have been working on during the last years
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 {% if site.data.repositories.github_users %}
