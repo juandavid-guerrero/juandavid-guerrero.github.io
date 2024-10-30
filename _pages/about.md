@@ -24,7 +24,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hey! thanks for visiting my webpage :wave:
 
-I am a [postdoctoral researcher](https://www.polito.it/personale?p=juan.guerrero) of the [CAD group](https://cad.polito.it/) in the Department of Control and Computer Engineering [DAUIN](https://www.dauin.polito.it/) from Politecnico di Torino - [PoliTo](https://www.polito.it/) in Turin, Italy. 
+I am a [Postdoctoral Research Fellow](https://www.polito.it/personale?p=juan.guerrero) of the [CAD group](https://cad.polito.it/) in the Department of Control and Computer Engineering [DAUIN](https://www.dauin.polito.it/) from Politecnico di Torino - [PoliTo](https://www.polito.it/) in Turin, Italy. 
 
 I completed my Ph.D (2024) in Computer and Control Engineering from [PoliTo](https://www.polito.it/), where I was advised by [Prof. Matteo Sonza Reorda](https://www.polito.it/personale?p=matteo.sonzareorda) and [Prof. Ernesto Sanchez](https://www.polito.it/personale?p=012684). During my Ph.D I worked on the reliability enhancement of GPU architectures. Also, I obtained twice the Ph.D quality awards of my cycle. This distinction is given by the doctoral school of [PoliTo](https://www.polito.it/) to the best Ph.D students every year. I obtained bachelor's and master's degrees in electronics engineering from [Universidad Pedagogica y Tecnologica de Colombia](https://uptc.edu.co/sitio/portal/) in 2013 and 2017, respectively.
 
