@@ -4,10 +4,11 @@
 repo_description_lines_max: 2
 
 github_repos:
-  - divadnauj-GB/nvbitPERfi
-  - divadnauj-GB/SC_Fault_injections
+  - divadnauj-GB/stereo_vision_core 
+  - divadnauj-GB/nvbitPERfi  
   - Jerc007/Open-GPGPU-FlexGrip-
   - edwar-vhd/SFU-Piecewise-Polynomial-Approximation
   - TheColombianTeam/PyOpenTCU
   - TheColombianTeam/GPUScheduling
+  - divadnauj-GB/SC_Fault_injections
   #- divadnauj-GB/stereo_matching_core
