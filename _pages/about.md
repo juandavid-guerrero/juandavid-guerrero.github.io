@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <a href="https://scholar.google.com/citations?user=7n9InNIAAAAJ">Researcher</a> | Parallel architectures | AI accelerators | Fault tolerance | Design for Testability | <a href="https://github.com/divadnauj-GB/nvbitPERfi">Reliability</a> | GPUs
+subtitle:  <a href="https://scholar.google.com/citations?user=7n9InNIAAAAJ">Researcher</a> | AI & ML | Parallel architectures | AI accelerators | Hardware designer | Fault tolerance | Design for Testability | <a href="https://github.com/divadnauj-GB/nvbitPERfi">Reliability</a> | GPUs | FPGAs |
 
 profile:
   align: right
